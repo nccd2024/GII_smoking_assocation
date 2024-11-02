@@ -30,7 +30,7 @@ No special instructions need to be stated in our analysis. Simply adhere to the 
 ## Codes and expected output
 
 1. **GII distribution and compare.SAS** was used to calculate the distribution of the Gender Inequality Index (GII) across various regions, testing the regional difference, conducting correlation analyses, and generating plots.
-2. **SMD** of baseline characteristics.SAS was used to describe the baseline characteristics of participants and calculated the standardized mean difference(SMD) between different sexes by calling a published SAS macro.
+2. **SMD of baseline characteristics.SAS** was used to describe the baseline characteristics of participants and calculated the standardized mean difference(SMD) between different sexes by calling a published SAS macro.
 3. **RCS.R** was used to perform restricted cubic spline (RCS) analysis to examine the relationship between GII and smoking behaviours of concern, and plotting the resulting graphs.
 4. **HGLM Model.SAS** was used to perform hierarchical generalized linear models (HGLM).
 5. **SEM.R** was used to perform multiple mediation analysis based on structural equation models (SEM) in R.
