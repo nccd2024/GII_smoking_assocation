@@ -14,7 +14,7 @@
 ## System Requirements
 
 - Hardware Requirements: The codes necessitate only a standard computer with sufficient RAM to support the operations defined by the user. For minimal performance, a computer with approximately 2 GB of RAM is recommended. Given large sample size of this paper, we utilized computer with the following specifications: RAM: 64GB; CPU: 2 cores, 2.60 GHz/core.
-- SoSoftware Requirements: The codes were tested on Windows operating systems. R (version 4.4.1) and SAS (version 9.4) were used for the original analysis presented in the paper.
+- SoSoftware Requirements: The codes were tested on Windows operating systems. R (version 4.1.1) and SAS (version 9.4) were used for the original analysis presented in the paper.
 
 ## Installation Guide
 
